@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://fan-14.github.io</id>
+    <id>https://fan-14.github.io</id>
     <title>某凡的次元袋</title>
-    <updated>2020-07-20T14:45:41.186Z</updated>
+    <updated>2020-07-20T14:46:13.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://fan-14.github.io"/>
-    <link rel="self" href="https://https://fan-14.github.io/atom.xml"/>
+    <link rel="alternate" href="https://fan-14.github.io"/>
+    <link rel="self" href="https://fan-14.github.io/atom.xml"/>
     <subtitle>作者是一名大鸽子，咕咕。</subtitle>
-    <logo>https://https://fan-14.github.io/images/avatar.png</logo>
-    <icon>https://https://fan-14.github.io/favicon.ico</icon>
+    <logo>https://fan-14.github.io/images/avatar.png</logo>
+    <icon>https://fan-14.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 某凡的次元袋</rights>
     <entry>
         <title type="html"><![CDATA[仅仅是一个测试]]></title>
-        <id>https://https://fan-14.github.io/post/jin-jin-shi-yi-ge-ce-shi/</id>
-        <link href="https://https://fan-14.github.io/post/jin-jin-shi-yi-ge-ce-shi/">
+        <id>https://fan-14.github.io/post/jin-jin-shi-yi-ge-ce-shi/</id>
+        <link href="https://fan-14.github.io/post/jin-jin-shi-yi-ge-ce-shi/">
         </link>
         <updated>2020-07-20T12:53:47.000Z</updated>
         <content type="html"><![CDATA[<p>尝试发布文章</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://fan-14.github.io/post/hello-gridea/</id>
-        <link href="https://https://fan-14.github.io/post/hello-gridea/">
+        <id>https://fan-14.github.io/post/hello-gridea/</id>
+        <link href="https://fan-14.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
